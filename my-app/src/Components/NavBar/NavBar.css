@@ -1,4 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap');
 .navbar{display: flex;
     justify-content: space-between;}
-    .micon{width: 30px;height:30px;}
+    .micon{font-family: 'Caveat', cursive;}
     .mlogo{width: 33px;height:35px;}
